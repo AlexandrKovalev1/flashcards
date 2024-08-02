@@ -17,10 +17,11 @@ export const Default: Story = {
   args: {
     children: <Typography>Card Example</Typography>,
     style: {
-      border: '1px solid green',
-      height: '300px',
-      padding: '24px',
-      width: '300px',
+      border: '2px solid white',
+      height: '250px',
+      margin: '0 auto',
+      padding: '30px',
+      width: '250px',
     },
   },
 }
